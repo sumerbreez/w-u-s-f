@@ -6,10 +6,10 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     "token": "stream-12",
-    "url": 'https://streaming.radionomy.com/RadioXUS?lang=en-US&appName=iTunes.m3u',
+    "url": 'https://playerservices.streamtheworld.com/api/livestream-redirect/WUSFFM.mp3',
     "metadata" : {
-      "title": "Stream One",
-      "subtitle": "A subtitle for stream one",
+      "title": "W. U. S. F.",
+      "subtitle": "An Alexa audio streaming skill that allows you to stream WUSF 89.7.",
       "art": {
         "sources": [
           {
