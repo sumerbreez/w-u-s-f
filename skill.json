@@ -3,21 +3,22 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "A starter template for an Alexa audio streaming skill.",
+          "summary": "An Alexa audio streaming skill that allows you to stream WUSF 89.7.",
           "examplePhrases": [
-            "Alexa, open Audio Steam Starter",
-            "Alexa, play Audio Steam Starter",
-            "Alexa, ask Audio Steam Starter to play"
+            "Alexa, open W. U. S. F.",
+            "Alexa, play W. U. S. F.",
+            "Alexa, start W. U. S. F."
           ],
           "keywords": [
             "audio streaming",
+            "news",
             "music",
-            "live music"
+            "jazz"
           ],
-          "name": "Audio Steam Starter",
-          "description": "A starter template for an Alexa audio streaming skill.",
-          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-108x108.png",
-          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png"
+          "name": "w-u-s-f",
+          "description": "An Alexa audio streaming skill for WUSF 89.7.",
+          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
+          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
         }
       },
       "isAvailableWorldwide": true,
